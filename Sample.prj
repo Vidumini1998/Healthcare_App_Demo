@@ -6,6 +6,7 @@
    <UUID>e1b37697-7f29-41f0-b64a-adde5e8b1d1a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Vidu\Katalon Studio\Sample\Sample.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Med_reg</name>
+   <name>TestOps</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>72c1ec4f-d572-45e5-974b-9e65df629b84</testSuiteGuid>
+   <testSuiteGuid>304a0abf-2315-47f9-8a4a-b7a018491586</testSuiteGuid>
    <testCaseLink>
-      <guid>ffc35e43-6a00-4268-9686-c2d186d296fd</guid>
+      <guid>cbdc0600-5610-4214-8532-4f89974bd6f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Make_appoinmnet</testCaseId>
+      <testCaseId>Test Cases/NewTestCaseDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
